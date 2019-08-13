@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "flow-demo-pipeline",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
